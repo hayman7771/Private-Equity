@@ -18,34 +18,34 @@ All content is structured to reflect institutional-grade private equity workflow
 ## Repository Structure
 
 ### deal-screens/
-3-minute deal screens, one-page profiles, and initial pass/fail criteria.
+- 3-minute deal screens, one-page profiles, and initial pass/fail criteria.
 
 ### lbo-models/
-LBO-lite spreadsheets, returns sensitivity tables, leverage analysis, and capital structure impact.
+- LBO-lite spreadsheets, returns sensitivity tables, leverage analysis, and capital structure impact.
 
 ### valuation/
-DCF templates, comps overviews, entry/exit multiple frameworks, and underwriting cases.
+- DCF templates, comps overviews, entry/exit multiple frameworks, and underwriting cases.
 
 ### industry-packs/
-Sector notes, competitive landscape frameworks, and industry structures relevant to control buyouts.
+- Sector notes, competitive landscape frameworks, and industry structures relevant to control buyouts.
 
 ### value-creation/
-Operational improvement playbooks, pricing strategies, procurement levers, capacity utilization mapping.
+- Operational improvement playbooks, pricing strategies, procurement levers, capacity utilization mapping.
 
 ### portfolio-monitoring/
-KPI dashboards, covenant monitoring sheets, and monthly reporting templates.
+- KPI dashboards, covenant monitoring sheets, and monthly reporting templates.
 
 ### ic-memos/
-Investment committee-style memos summarizing deal rationale, valuation, risks, and recommendation.
+- Investment committee-style memos summarizing deal rationale, valuation, risks, and recommendation.
 
 ### add-on-pipeline/
-Strategies for buy-and-build, bolt-on target mapping, and integration considerations.
+- Strategies for buy-and-build, bolt-on target mapping, and integration considerations.
 
 ### credit-analysis/
-Capital structure frameworks, interest coverage analysis, and leverage case evaluation.
+- Capital structure frameworks, interest coverage analysis, and leverage case evaluation.
 
 ### operational-diligence/
-Checklists for plant walkthroughs, management interviews, HR diligence, and supply chain mapping.
+- Checklists for plant walkthroughs, management interviews, HR diligence, and supply chain mapping.
 
 ---
 
