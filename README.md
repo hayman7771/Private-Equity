@@ -1,4 +1,4 @@
-# Private Equity Portfolio – Deal Evaluation, LBO Modeling & Value Creation Playbooks
+# Private Equity Portfolio â€“ Deal Evaluation, LBO Modeling & Value Creation Playbooks
 
 This repository demonstrates core competencies required of a Private Equity Associate including:
 - Deal sourcing & screening  
@@ -17,34 +17,34 @@ All content is structured to reflect institutional-grade private equity workflow
 
 ## Repository Structure
 
-### ?? deal-screens/
+### deal-screens/
 3-minute deal screens, one-page profiles, and initial pass/fail criteria.
 
-### ?? lbo-models/
+### lbo-models/
 LBO-lite spreadsheets, returns sensitivity tables, leverage analysis, and capital structure impact.
 
-### ?? valuation/
+### valuation/
 DCF templates, comps overviews, entry/exit multiple frameworks, and underwriting cases.
 
-### ?? industry-packs/
+### industry-packs/
 Sector notes, competitive landscape frameworks, and industry structures relevant to control buyouts.
 
-### ?? value-creation/
+### value-creation/
 Operational improvement playbooks, pricing strategies, procurement levers, capacity utilization mapping.
 
-### ?? portfolio-monitoring/
+### portfolio-monitoring/
 KPI dashboards, covenant monitoring sheets, and monthly reporting templates.
 
-### ?? ic-memos/
+### ic-memos/
 Investment committee-style memos summarizing deal rationale, valuation, risks, and recommendation.
 
-### ?? add-on-pipeline/
+### add-on-pipeline/
 Strategies for buy-and-build, bolt-on target mapping, and integration considerations.
 
-### ?? credit-analysis/
+### credit-analysis/
 Capital structure frameworks, interest coverage analysis, and leverage case evaluation.
 
-### ?? operational-diligence/
+### operational-diligence/
 Checklists for plant walkthroughs, management interviews, HR diligence, and supply chain mapping.
 
 ---
