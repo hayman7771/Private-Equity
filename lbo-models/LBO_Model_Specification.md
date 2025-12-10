@@ -1,4 +1,4 @@
-# LBO Model Specification – MIS
+# LBO Model Specification â€“ MIS
 
 ## Core Components
 
@@ -24,10 +24,10 @@
 
 ### 4. Cash Flow Waterfall
 EBITDA  
-– Capex  
-– ?NWC  
-– Cash taxes  
-= Unlevered FCF ? Available for debt paydown
+â€“ Capex  
+â€“ NWC  
+â€“ Cash taxes  
+= Unlevered FCF (Available for debt paydown)
 
 ### 5. Returns Analysis
 - 5-year exit
